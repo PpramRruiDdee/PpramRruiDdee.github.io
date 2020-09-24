@@ -1,2 +1,3 @@
 # PpremRruiDdee
 mypage
+print("หนูมาลีมีลูกแมวเหมียว")
