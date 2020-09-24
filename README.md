@@ -1,3 +1,6 @@
 # PpremRruiDdee
 mypage
-print("หนูมาลีมีลูกแมวเหมียว")
+pramruidee
+เปรทฤดี
+print("pramruidee
+เปรทฤดี")
